@@ -94,10 +94,12 @@ class Caltests(unittest.TestCase):
 
 ## Fail example
 
-![](C:\Users\Ayan\PycharmProjects\python_tdd\1.PNG)
-![](C:\Users\Ayan\PycharmProjects\python_tdd\2.PNG)
+![1](https://user-images.githubusercontent.com/104793540/183965720-70b9796d-c31c-4eeb-8a58-ba211f137868.PNG)
+
+![2](https://user-images.githubusercontent.com/104793540/183965753-fbbdbd8d-3d4f-47a9-8cfb-ecae6e55d1a6.PNG)
 
 ## Pass example
 
-![](C:\Users\Ayan\PycharmProjects\python_tdd\pass.PNG)
+![image](https://user-images.githubusercontent.com/104793540/183965682-44e86260-2f50-4cb7-a947-d9810902829d.png)
+
 
