@@ -21,10 +21,10 @@ class Caltests(unittest.TestCase):
         self.assertEqual(self.calc_obj.div(4,2),2)
 
     def test_per(self):
-        self.assertEqual(self.calc_obj.per(5,10), 20)
+        self.assertEqual(self.calc_obj.per(5,10), 50)
 
     # def test_dob(self):
-    #     self.assertEqual(self.calc_obj.dob())
+    #     self.assertEqual(self.calc_obj.dob(6,98))
 
     def test_convert(self):
         self.assertEqual(self.calc_obj.convert(126),1.26)

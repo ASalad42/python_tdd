@@ -89,3 +89,15 @@ class Caltests(unittest.TestCase):
         self.assertEqual(self.calc_obj.convert(126),1.26)
 
 ````
+
+### Screenshots of code
+
+## Fail example
+
+![](C:\Users\Ayan\PycharmProjects\python_tdd\1.PNG)
+![](C:\Users\Ayan\PycharmProjects\python_tdd\2.PNG)
+
+## Pass example
+
+![](C:\Users\Ayan\PycharmProjects\python_tdd\pass.PNG)
+
