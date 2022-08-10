@@ -1,6 +1,8 @@
 # Test Driven Development
 
-![](C:\Users\Ayan\PycharmProjects\python_tdd\tdd.PNG)
+![image](https://user-images.githubusercontent.com/104793540/183910255-e9d3d160-f94e-4ab6-8a5f-6e779c2b252f.png)
+
+
 Steps 
 
 - Firstly, add a test.
